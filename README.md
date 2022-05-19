@@ -1,2 +1,2 @@
 # hello-word
-my name is isaac, I lived in breuil le sec in oise 
+my name is isaac, I live in breuil le sec in oise 
